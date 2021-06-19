@@ -1,0 +1,14 @@
+public class Books{
+
+private String name;
+int pages;
+private int cost;
+
+
+public Books(String name, int pages , int cost){
+
+this.name = name ;
+this.pages = pages;
+this.cost = cost;
+}
+}
