@@ -1,0 +1,17 @@
+public class Data{
+
+private String words;
+private int numbers;
+
+
+public Data(String words,int number){
+
+this.words = words;
+this.number = number;
+
+}
+
+}
+
+
+
